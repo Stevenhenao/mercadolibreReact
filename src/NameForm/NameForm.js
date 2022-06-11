@@ -71,7 +71,7 @@ class NameForm extends React.Component {
             <div className='description'>
               <p>{result.title}</p>
               <p>{result.price} COP</p>
-              <a href={result.permalink}>Ver producto</a>
+              <a href={result.permalink}>mas informacion</a>
             </div>
           </div>))}
       </div>}
